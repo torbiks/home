@@ -5,9 +5,11 @@
 # 5 {}
 # text = input('Введіть текст:')
 # print(text * 5)
-from dz3 import result
+
 
 # 6
+ty=98
+
 eret = 56
 
 # # 7 {}
