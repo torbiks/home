@@ -8,7 +8,7 @@
 from dz3 import result
 
 # 6
-
+eret = 56
 
 # # 7 {}
 # name = input('Ваше ім`я:')
