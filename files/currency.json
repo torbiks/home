@@ -1,0 +1,12 @@
+[
+    {
+        "number": "1",
+        "name": "USD/UAH",
+        "currency_quotes": 42.15
+    },
+    {
+        "number": "2",
+        "name": "USD/GBP",
+        "currency_quotes": 0.63
+    }
+]
